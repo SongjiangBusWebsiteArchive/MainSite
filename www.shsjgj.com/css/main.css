@@ -1,0 +1,39 @@
+﻿/* 网页整体样式 */
+
+body {margin: 0; padding: 0px; background:url(../images/BodyBg.html) #FFFFFF}
+td {font-family:"宋体", Arial; font-size: 12px; line-height: 120%; color: #2A3A51}
+a { color:#2A3A51; text-decoration: none}
+a:hover {color: #2A3A51; text-decoration: none}
+img{border:0}
+
+/* --end-- 网页整体样式 */
+
+/* 通用样式 */
+
+.White,.White:hover{color:#FFFFFF}
+.BlueHead,.BlueHead:hover{color:#4790BD}
+.Arial{font-family:Arial}
+.FontWeight{font-weight:bold}
+.LineHeight200{line-height:200%}
+.Blue,.Blue:hover{color:#0084BD}
+.BannerBg{background:url(../images/BannerBg.jpg) no-repeat center}
+
+.InputLogin{width:122px; border:1px solid #D8D9DB; height:18px; padding:0; margin:0}
+.InputHeadSearch{width:188px; height:23px; background:#FFFFFF; border:0; padding:0; margin:0}
+.Line1{background:url(../images/Line1.jpg) center repeat-x}
+.InputIndexSJSearch1{width:165px; height:20px; border:1px solid #CFCFCF}
+.InputIndexSJSearch2{width:79px; height:20px; border:1px solid #CFCFCF}
+.InputIndexSJSearch3{width:79px; height:20px; border:1px solid #CFCFCF}
+.IndexQYRYPic{width:152px; height:107px}
+.IndexYGFCPic{width:135px; height:100px}
+.InputIndexFriend{width:181px; height:20px; border:1px solid #A9ADAE}
+.IndexTitleTxt1{font-size:14px; color:#FFFFFF}
+.IndexTitleTxt2{font-size:14px; font-weight:bold; color:#018FCF}
+.IndexNewsMenu1{background:url(../images/IndexNewsTitleBg.jpg); font-size:14px; color:#FFFFFF; cursor:pointer}
+.IndexNewsMenu2{font-size:14px; cursor:pointer}
+.LeftMenuBtnBg{background:url(../images/LeftMenuBtnBg.jpg) center no-repeat}
+.LeftMenuSmallBtnBg{background:url(../images/LeftMenuSmallBtnBg.jpg) center repeat-x}
+.LeftMenuTxt,.LeftMenuTxt:hover{font-size:14px; font-weight:bold; color:#018FCF}
+.LeftMenuTitle{font-size:14px; font-weight:bold; color:#FFFFFF}
+.TitleTxt{font-size:14px; font-weight:bold; color:#0084BD}
+.DetailsTitle{font-size:16px; font-weight:bold; color:#488E07}
